@@ -6,6 +6,13 @@
       "Enabled": true,
       "reason": "Suspicious activity detected on your account.",
       "time": "1730197862"
+    },
+    {
+      "username": "NorySight",
+      "banID": "#0A1B2C3D",
+      "Enabled": true,
+      "reason": "Unauthorized modifications detected.",
+      "time": "1730198000"
     }
   ]
 }
