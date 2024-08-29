@@ -1,1 +1,11 @@
-
+{
+  "users": [
+    {
+      "username": "Emilly_33",
+      "banID": "#0F07D39F",
+      "Enabled": true,
+      "reason": "Suspicious activity detected on your account.",
+      "time": "1730197862"
+    }
+  ]
+}
